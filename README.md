@@ -2,7 +2,8 @@ Cognitive Computing Lab Assignments
 
 Submitted by:
 
-Name: Vaibhav Kawal Roll No: 102317264 Assignments Uploaded :
+Name: Vaibhav Kawal Roll No: 102317264 
+Assignments Uploaded :
 
 Assignment 1: Basics of Python Notes:
 
